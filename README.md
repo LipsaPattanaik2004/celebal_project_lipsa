@@ -48,7 +48,7 @@ celebal_project_lipsa/
 ## 🔍 Dataset Information
 
 - Original Dataset: [Online Retail II – Kaggle](https://www.kaggle.com/datasets)
-- This repository uses a compressed subset: `dataset_compressed.csv`
+- This repository uses a compressed subset: `Dataset.csv`
 
 ---
 
