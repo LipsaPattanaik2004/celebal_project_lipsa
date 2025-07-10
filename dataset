@@ -1,0 +1,5 @@
+
+- **File Name:** `Dataset.csv`
+- **Rows:** ~50,000 transactions
+- **Source:** [Online Retail II – Kaggle](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
+- **Type:** Cleaned subset of retail transaction data for CLV modeling
