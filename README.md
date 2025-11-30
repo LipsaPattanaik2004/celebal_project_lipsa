@@ -62,9 +62,8 @@ celebal_project_lipsa/
 ---
 
 ## 👩‍💻 Author
-
-**LIPSA PATTANAIK**  
-Final-year B.Tech, ITER SOA University  
-Project created during **Celebal Technologies Summer Internship 2025**
+## LIPSA PATTANAIK*  
+## Final-year B.Tech, ITER SOA University  
+## Project created during **Celebal Technologies Summer Internship 2025**
 
 ---
